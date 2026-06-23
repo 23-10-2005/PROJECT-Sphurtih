@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "team-sphurtih/1.0.0": {
+        "runtime": {
+          "team-sphurtih.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "team-sphurtih/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
